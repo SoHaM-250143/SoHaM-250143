@@ -18,8 +18,6 @@ HTML,CSS
 
 Frameworks & Tools:
 
-React, Node.js
-
 Git & GitHub
 
 VS Code
