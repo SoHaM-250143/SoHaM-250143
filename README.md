@@ -1,23 +1,49 @@
-<h1>👋 Hi, I'm Soham</h1>
+👋 Hi, I'm Soham
 
-<h2>🚀 Tech Enthusiast | 🎯 Lifelong Learner</h2>
+Welcome to my GitHub! I'm passionate about building clean, functional, and data-driven solutions.
+Here you'll find projects ranging from web development to data analytics and backend programming.
 
-<h3>Welcome to my GitHub profile! I’m passionate about building useful tools, exploring new technologies and constantly improving my craft.</h3>
+🚀 Skills & Technologies
+💻 Frontend Development
 
-<h3>🔧 Tech Stack</h3>
+HTML5
 
-<h4>Languages:</h4>
+CSS3
 
-Java
+JavaScript (ES6+)
+
+🧠 Programming Languages
 
 Python
 
-Javascript
+Java
 
-HTML,CSS
+📊 Data Analytics & Visualization
 
-<h3>Frameworks & Tools:</h3>
+Power BI
 
-Git & GitHub
+Tableau
 
-VS Code
+📂 What I Work On
+
+Responsive and dynamic web applications
+
+Data dashboards and business intelligence reports
+
+Automation scripts and backend logic
+
+Learning new frameworks and tools to level up my stack
+
+🌱 Currently Exploring
+
+Advanced Python libraries
+
+Java Spring Boot
+
+Modern JavaScript frameworks
+
+📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/253019-soham-mhatre/
+
+Email: work.sohamm@gmail.com
