@@ -4,46 +4,47 @@ Welcome to my GitHub! I'm passionate about building clean, functional, and data-
 Here you'll find projects ranging from web development to data analytics and backend programming.
 
 🚀 Skills & Technologies
-💻 Frontend Development
 
-HTML5
+  💻 Frontend Development
 
-CSS3
+    HTML5
 
-JavaScript (ES6+)
+    CSS3
 
-🧠 Programming Languages
+    JavaScript (ES6+)
 
-Python
+  🧠 Programming Languages
 
-Java
+    Python
 
-📊 Data Analytics & Visualization
+    Java
 
-Power BI
+  📊 Data Analytics & Visualization
 
-Tableau
+    Power BI
 
-📂 What I Work On
+    Tableau
 
-Responsive and dynamic web applications
+  📂 What I Work On
 
-Data dashboards and business intelligence reports
+    Responsive and dynamic web applications
 
-Automation scripts and backend logic
+    Data dashboards and business intelligence reports
 
-Learning new frameworks and tools to level up my stack
+    Automation scripts and backend logic
 
-🌱 Currently Exploring
+    Learning new frameworks and tools to level up my stack
 
-Advanced Python libraries
+  🌱 Currently Exploring
 
-Java Spring Boot
+    Advanced Python libraries
 
-Modern JavaScript frameworks
+    Java Spring Boot
 
-📫 Connect With Me
+    Modern JavaScript frameworks
 
-LinkedIn: https://www.linkedin.com/in/253019-soham-mhatre/
+  📫 Connect With Me
 
-Email: work.sohamm@gmail.com
+    LinkedIn: https://www.linkedin.com/in/253019-soham-mhatre/
+
+    Email: work.sohamm@gmail.com
