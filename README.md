@@ -25,6 +25,18 @@ Here you'll find projects ranging from web development to data analytics and bac
 
     Tableau
 
+  🐍 Python Libraries & Tools
+
+    Pandas
+
+    NumPy
+
+    Matplotlib
+
+    Seaborn
+
+    Flask 
+    
   📂 What I Work On
 
     Responsive and dynamic web applications
