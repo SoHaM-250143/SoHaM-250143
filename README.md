@@ -51,8 +51,8 @@ I am a graduate student dedicated to leveraging **Data Science** for **Cybersecu
       <br />MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
-      <br />Version Control
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+      <br />React
     </td>
   </tr>
 </table>
@@ -71,14 +71,29 @@ I am a graduate student dedicated to leveraging **Data Science** for **Cybersecu
 > **HospitAlert** is my flagship research project focused on Intelligent Rare Medical Disease Detection.
 - **Models:** LSTM (Long Short-Term Memory) & Few-shot Learning.
 - **Tech:** Python, Flask, and Advanced Data Visualization.
-- **Goal:** Creating a forensic-ready medical diagnostic tool for hospitals.
 
 ---
 
 ### 📫 Let's Connect
 <p align="left">
-<a href="https://www.linkedin.com/in/253019-soham-mhatre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Soham Mhatre" height="30" width="40" /></a>
-<a href="mailto:work.sohamm@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="work.sohamm" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/253019-soham-mhatre/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:work.sohamm@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://twitter.com/SohamMh85077807" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/_.sohammm.__" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SoHaM-250143&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
