@@ -1,17 +1,18 @@
 # 👋 Hi, I'm Soham | MCA Student & Data Science Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Master+of+Computer+Applications;Data+Science+%26+Forensics;Salesforce+Developer+In-Training;Python+%26+Java+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Master+of+Computer+Applications;Data+Science+%26+Forensics;HospitAlert+Developer;Python+%26+Java+Expert" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
-I am a graduate student currently focused on the intersection of **Data Science** and **Cybersecurity Forensics**. My current research involves **HospitAlert**, an intelligent system for rare disease detection using LSTM and Few-shot Learning.
+I am a graduate student dedicated to leveraging **Data Science** for **Cybersecurity Forensics** and **Healthcare**. My primary focus is building intelligent systems that can identify anomalies and improve diagnostic accuracy.
 
-- 🎓 Pursuing **Master of Computer Applications (MCA)**
-- 🔍 Specializing in **Log Anomaly Detection** and **Healthcare Monitoring**
-- ⚡ Fun Fact: I’m currently transitioning my JavaScript skills into the **Salesforce Ecosystem**.
+- 🎓 Currently pursuing **Master of Computer Applications (MCA)**
+- 🔬 Lead Developer of **HospitAlert**: An Intelligent Rare Disease Detection system.
+- 🛡️ Researching **Log Anomaly Detection** and **Medical Data Forensics**.
+- 🐍 Deeply interested in **Machine Learning (LSTM)** and **Few-shot Learning**.
 
 ---
 
@@ -43,11 +44,15 @@ I am a graduate student currently focused on the intersection of **Data Science*
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="Scikit-Learn" />
-      <br />Data Science
+      <br />ML / DS
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
       <br />MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+      <br />Version Control
     </td>
   </tr>
 </table>
@@ -62,9 +67,11 @@ I am a graduate student currently focused on the intersection of **Data Science*
 
 ---
 
-### 📂 Current Focus
-- **[HospitAlert]**: Building an LSTM-based web app for rare disease detection.
-- **Competitive Prep**: Currently refining my logic and quantitative skills.
+### 📂 Key Project: HospitAlert
+> **HospitAlert** is my flagship research project focused on Intelligent Rare Medical Disease Detection.
+- **Models:** LSTM (Long Short-Term Memory) & Few-shot Learning.
+- **Tech:** Python, Flask, and Advanced Data Visualization.
+- **Goal:** Creating a forensic-ready medical diagnostic tool for hospitals.
 
 ---
 
