@@ -49,10 +49,6 @@ I am a graduate student currently focused on the intersection of **Data Science*
       <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
       <br />MongoDB
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=salesforce" width="40" height="40" alt="Salesforce" />
-      <br />Salesforce
-    </td>
   </tr>
 </table>
 
@@ -68,7 +64,6 @@ I am a graduate student currently focused on the intersection of **Data Science*
 
 ### 📂 Current Focus
 - **[HospitAlert]**: Building an LSTM-based web app for rare disease detection.
-- **Salesforce Development**: Mastering Apex and LWC (Lightning Web Components).
 - **Competitive Prep**: Currently refining my logic and quantitative skills.
 
 ---
