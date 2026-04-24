@@ -12,7 +12,7 @@ I am a graduate student dedicated to leveraging **Data Science** for **Cybersecu
 - 🎓 Currently pursuing **Master of Computer Applications (MCA)**
 - 🔬 Lead Developer of **HospitAlert**: An Intelligent Rare Disease Detection system.
 - 🛡️ Researching **Log Anomaly Detection** and **Medical Data Forensics**.
-- 🐍 Deeply interested in **Machine Learning (LSTM)** and **Few-shot Learning**.
+- 🐍 Deeply interested in **Machine Learning ** .
 
 ---
 
