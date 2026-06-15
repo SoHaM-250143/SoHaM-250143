@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Soham | MCA Student & Data Science Enthusiast
+# 👋 Hi, I'm Soham | MCA Student 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Master+of+Computer+Applications;Data+Science+%26+Forensics;Python+%26+Java+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Master+of+Computer+Applications;Data+Science+%26;Python+%26+Java+Developer" alt="Typing SVG" />
 </p>
 
 ---
