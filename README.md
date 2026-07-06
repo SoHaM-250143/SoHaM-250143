@@ -43,8 +43,8 @@ I am a graduate student passionate about building scalable web applications and 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoHaM-250143&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Soham's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoHaM-250143&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SoHaM-250143&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoHaM-250143&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
