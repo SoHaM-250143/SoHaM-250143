@@ -1,61 +1,42 @@
-# 👋 Hi, I'm Soham | MCA Student 
+# 👋 Hi, I'm Soham Mhatre | MCA Student & Software Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Master+of+Computer+Applications;Data+Science+%26;Python+%26+Java+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Master+of+Computer+Applications;Full-Stack+Web+Developer;Data+Forensics+%26+ML;Building+CliniFlow" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
-I am a graduate student dedicated to leveraging **Data Science** for **Cybersecurity Forensics** and **Healthcare**. My primary focus is building intelligent systems that can identify anomalies and improve diagnostic accuracy.
+I am a graduate student passionate about building scalable web applications and leveraging **Data Science** for **Cybersecurity Forensics** and **Healthcare**. My primary focus is building robust systems that analyze data to identify anomalies, monitor logs, and improve diagnostic accuracy.
 
-- 🎓 Currently pursuing **Master of Computer Applications (MCA)**
-- 🔬 Lead Developer of **HospitAlert**: An Intelligent Rare Disease Detection system.
+- 🎓 Currently pursuing **Master of Computer Applications (MCA)** at PES Modern College of Engineering, Pune.
+- 🔬 Lead Developer of **CliniFlow**: A multimodal research web application designed to detect rare medical conditions through data-driven medical images and reports.
 - 🛡️ Researching **Log Anomaly Detection** and **Medical Data Forensics**.
-- 🐍 Deeply interested in **Machine Learning ** .
+- 💻 Actively expanding my expertise in **Full-Stack Development** and **Machine Learning**.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" />
-      <br />Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
-      <br />Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
-      <br />JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" alt="Flask" />
-      <br />Flask
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html,css" width="40" height="40" alt="Web" />
-      <br />HTML/CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="Scikit-Learn" />
-      <br />ML / DS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
-      <br />MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
-      <br />React
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,java,react,nextjs,nodejs,django,flask,fastapi,mongodb,sklearn,html,css" alt="My Skills" />
+  </a>
+</p>
+
+---
+
+### 📜 Certifications & Continuous Learning
+- 📊 **Advanced Power BI:** Expert Data Analysis and Visualization
+- 🐍 **Python Machine Learning:** From Beginner to Pro
+- 🌐 **Web Development:** Masterclasses in Next.js, Node.js, and Django
+
+---
+
+### 📂 Key Project: CliniFlow
+> **CliniFlow** is my flagship research project focused on Data-Driven Rare Medical Disease Detection and Forensics.
+- **Models:** LSTM (Long Short-Term Memory) & Few-shot Learning.
+- **Tech Stack:** Python, React, FastAPI, MongoDB, and Advanced Data Visualization.
 
 ---
 
@@ -67,15 +48,12 @@ I am a graduate student dedicated to leveraging **Data Science** for **Cybersecu
 
 ---
 
-### 📂 Key Project: HospitAlert
-> **HospitAlert** is my flagship research project focused on Intelligent Rare Medical Disease Detection.
-- **Models:** LSTM (Long Short-Term Memory) & Few-shot Learning.
-- **Tech:** Python, Flask, and Advanced Data Visualization.
-
----
-
 ### 📫 Let's Connect
+
 <p align="left">
+  <a href="https://my-portfolio-five-mauve-98.vercel.app/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/253019-soham-mhatre/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
