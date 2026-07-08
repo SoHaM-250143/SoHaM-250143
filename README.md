@@ -40,13 +40,7 @@ I am a graduate student passionate about building scalable web applications and 
 
 ---
 
-### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoHaM-250143&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ### 📫 Let's Connect
 
