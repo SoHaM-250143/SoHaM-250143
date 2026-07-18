@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=200&section=header&text=Soham%20Mhatre&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Data%20Forensics%20%7C%20MCA%20Student&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=200&section=header&text=Soham%20Mhatre&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Data%20%26%20Medical%20Forensics%20%7C%20MCA%20Student&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Master+of+Computer+Applications;Full-Stack+Web+Developer;Cybersecurity+%26+Data+Forensics;Building+CliniFlow">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Master+of+Computer+Applications;Full-Stack+Web+Developer;Cybersecurity+%26+Data+Forensics;Building+CliniFlow" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Master+of+Computer+Applications;Full-Stack+Web+Developer;Data+%26+Medical+Forensics;Building+CliniFlow">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Master+of+Computer+Applications;Full-Stack+Web+Developer;Data+%26+Medical+Forensics;Building+CliniFlow" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,12 +12,12 @@
 
 ### 👨‍💻 About Me
 
-I am a developer driven by the intersection of **Data Science**, **Forensics**, and scalable web architecture. My focus lies in engineering robust systems that parse complex data to detect anomalies—whether it's monitoring system logs for unauthorized access or analyzing clinical data for medical informatics.
+I am a developer driven by the intersection of **Data Science**, **Medical Forensics**, and scalable web architecture. My focus lies in engineering robust systems that parse complex data to detect anomalies—whether it's monitoring system logs for security insights or analyzing clinical data for medical informatics.
 
 - 🎓 Currently pursuing my **Master of Computer Applications (MCA)** at PES Modern College of Engineering, Pune.
 - 🔬 Building **CliniFlow**, a multimodal research platform designed to detect rare medical conditions using clinical text and medical imaging forensics.
 - 🌱 Expanding my ecosystem: Diving deep into **BioBERT** and **Few-Shot Learning**.
-- 🎯 Passionate about bridging the gap between rigorous cybersecurity principles and advanced data science.
+- 🎯 Passionate about bridging the gap between rigorous data analysis and advanced forensics.
 
 ---
 
