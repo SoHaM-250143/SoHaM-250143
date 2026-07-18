@@ -41,16 +41,9 @@ I am a developer driven by the intersection of **Data Science**, **Forensics**, 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=SoHaM-250143&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%"/>
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoHaM-250143&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=SoHaM-250143&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoHaM-250143&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoHaM-250143&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
